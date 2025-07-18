@@ -1,0 +1,3 @@
+name = "牛波一" # 给你的 Worker 起一个独一无二的名字
+main = "_worker.js"        # 指定入口文件
+compatibility_date = "2025-07-18" # 使用一个近期的兼容性日期
